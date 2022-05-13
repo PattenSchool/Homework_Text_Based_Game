@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 32a679ae20142f643b23ca4ae004502a, type: 3}
+  m_Name: 1b Explore
+  m_EditorClassIdentifier: 
+  gameText: You look around and see a forest to your right. Should you explore further
+    or left to go back?
+  otherStates:
+  - {fileID: 11400000, guid: 7759746fbe03f86488f2acde504e1198, type: 2}
+  - {fileID: 11400000, guid: 686d9a1f075c1c24abbd17cc22d58afc, type: 2}

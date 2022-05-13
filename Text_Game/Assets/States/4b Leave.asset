@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 32a679ae20142f643b23ca4ae004502a, type: 3}
+  m_Name: 4b Leave
+  m_EditorClassIdentifier: 
+  gameText: 'You run for your life, and end up in an abandoned ship. You left the
+    cats behind but should you now Left: Explore or Right: Leave?'
+  otherStates:
+  - {fileID: 11400000, guid: 09b1386eae2905449b4d8d68cd16d73f, type: 2}
+  - {fileID: 11400000, guid: 73f7390fc19333f41b64ce45803c64a7, type: 2}
